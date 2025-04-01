@@ -27,3 +27,5 @@ A simple and user-friendly password generator built with HTML, CSS, and JavaScri
 git clone https://github.com/yourusername/password-generator.git
 cd password-generator
 open index.html
+
+![{1F64CE25-5AE7-4E7C-8EFD-D37451149008}](https://github.com/user-attachments/assets/ee6bc35d-ac58-49f9-bb5f-79cc72f8ff48)
